@@ -1,13 +1,11 @@
 import React from 'react'
 
-import { PrimaryBackground } from '../common/Themed'
+import { SecondaryBackground } from '../common/Themed'
 
 import './Spinner.css'
 
 const Spinner = () => (
-  <PrimaryBackground>
-    <div className='Spinner' />
-  </PrimaryBackground>
+  <SecondaryBackground className='Spinner' />
 )
 
 export default Spinner

@@ -1,9 +1,7 @@
 import React, { Component } from 'react'
 import { compose, withState, lifecycle, branch, renderComponent } from 'recompose'
-import { ThemeProvider } from 'styled-components'
 
 import mockedData from '../../mockedData.json'
-import theme from '../../data/theme'
 
 import Header from '../Header'
 import ReposList from '../ReposList'
@@ -21,15 +19,13 @@ class App extends Component {
   render () {
     const {userInfo, userRepos} = this.props
     return (
-      <ThemeProvider theme={theme}>
-        <div className='fadeIn'>
-          <Header userInfo={userInfo} />
-          <ReposList
-            userRepos={userRepos}
-            userInfo={userInfo}
-          />
-        </div>
-      </ThemeProvider>
+      <div className='fadeIn'>
+        <Header userInfo={userInfo} />
+        <ReposList
+          userRepos={userRepos}
+          userInfo={userInfo}
+        />
+      </div>
     )
   }
 }
