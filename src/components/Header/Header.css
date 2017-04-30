@@ -1,0 +1,12 @@
+.Header .social-container a:first-child {
+  margin-left: 0;
+}
+
+.Header .social-container a:last-child {
+  margin-right: 0;
+}
+
+.Header .social-icon {
+  margin-right: 1.15rem;
+  color: inherit;
+}

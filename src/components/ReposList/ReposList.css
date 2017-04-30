@@ -1,0 +1,10 @@
+.ReposList .plus-sign {
+  font-size: 1.3em;
+}
+
+.ReposList .more-card-box {
+  max-height: 22rem;
+  min-height: 22rem;
+  height: 22rem;
+  color: inherit;
+}

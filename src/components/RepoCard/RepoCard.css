@@ -1,0 +1,7 @@
+.RepoCard .card-box {
+  max-height: 22rem;
+  min-height: 22rem;
+  height: 22rem;
+  color: inherit;
+  word-break: break-all;
+}
