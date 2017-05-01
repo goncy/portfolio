@@ -1,3 +1,5 @@
+let lastTheme = null
+
 const green = '#19a974'
 const navy = '#001b44'
 const darkRed = '#E7040F'
@@ -53,7 +55,14 @@ const themes = [{
 }]
 
 const getTheme = () => {
-  const theme = themes[Math.floor(Math.random() * themes.length)]
+  let theme = null
+
+  while (!theme || lastTheme === theme) {
+    theme = themes[Math.floor(Math.random() * themes.length)]
+  }
+
+  lastTheme = theme
+
   return {
     primary: theme.primary,
     secondary: theme.secondary
