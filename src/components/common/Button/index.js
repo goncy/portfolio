@@ -1,14 +1,12 @@
 import React from 'react'
 
-import Link from '../Link'
-
 const Button = ({ children, className = '', ...rest }) => (
-  <Link
+  <a
     className={`${className} f6 f5-ns b dim br1 ba ph3 pv2 dib pointer`}
     {...rest}
   >
     {children}
-  </Link>
+  </a>
 )
 
 Button.propTypes = {

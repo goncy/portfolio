@@ -5,14 +5,13 @@ import { SOCIAL_LINKS } from '../../data/constants'
 
 import Icon from '../common/Icon'
 import Avatar from '../common/Avatar'
-import Link from '../common/Link'
 
 import './Header.css'
 
 const Header = ({ githubProfile, linkedinResume }) => (
   <div className='Header'>
     <div className='tc pa2 pa4-ns'>
-      <div className='mw9 center ph2'>
+      <div className='mw9 center ph2 pb1'>
         <div className='cf'>
           <div className='w-100'>
             <Avatar
@@ -27,7 +26,7 @@ const Header = ({ githubProfile, linkedinResume }) => (
                 {linkedinResume.basics.summary}
               </p>
               <p>
-                Actualmente tengo <span className='b'>{githubProfile.public_repos}</span> repositorios subidos a <span className='b'><Link className='link' href={githubProfile.url}> mi GitHub</Link></span>.
+                Actualmente tengo <span className='b'>{githubProfile.public_repos}</span> repositorios subidos a <span className='b'><a className='pointer no-underline' href={githubProfile.url}> mi GitHub</a></span>.
               </p>
             </blockquote>
             <div className='w-100 overflow-auto'>
