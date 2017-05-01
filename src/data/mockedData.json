@@ -1,5 +1,5 @@
 {
-  "userRepos": [
+  "githubRepositories": [
   {
     "id": 87460995,
     "name": "gba-villas-y-asentamientos",
@@ -2671,7 +2671,7 @@
     "default_branch": "master"
   }
 ],
-  "userInfo": {
+  "githubProfile": {
     "login": "goncy",
     "id": 6494462,
     "avatar_url": "https://avatars2.githubusercontent.com/u/6494462?v=3",
@@ -2703,7 +2703,7 @@
     "created_at": "2014-01-24T18:57:18Z",
     "updated_at": "2017-04-28T20:30:07Z"
   },
-  "userResume": {
+  "linkedinResume": {
     "basics": {
       "name": "Gonzalo Pozzo",
       "label": "Javascript Developer",

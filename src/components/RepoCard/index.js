@@ -1,14 +1,14 @@
 import React from 'react'
 
 import Icon from '../common/Icon'
-import { SecondaryColor } from '../common/Themed'
+import { SecondaryColor } from '../common/themed/elements'
 
 import './RepoCard.css'
 
 const RepoCard = ({ repo: { name, owner, html_url, stargazers_count, watchers, language, forks } }) => (
   <div className='RepoCard'>
     <article className='fl w-100 w-50-m w-25-l pa2'>
-      <div
+      <a
         className='card-box tc br3 ba bw2 pv3 ph2 grow flex flex-column justify-center pointer no-underline'
         href={html_url}
         target='_blank'
@@ -48,7 +48,7 @@ const RepoCard = ({ repo: { name, owner, html_url, stargazers_count, watchers, l
             </h3>
           </SecondaryColor>
         </div>
-      </div>
+      </a>
     </article>
   </div>
 )

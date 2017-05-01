@@ -2,8 +2,10 @@
   "name": "tachyons",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://goncy.github.io/portfolio",
   "dependencies": {
     "font-awesome": "^4.7.0",
+    "gh-pages": "^0.12.0",
     "moment": "^2.18.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",

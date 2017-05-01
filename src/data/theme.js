@@ -52,9 +52,12 @@ const themes = [{
   secondary: orange
 }]
 
-const theme = themes[Math.floor(Math.random() * themes.length)]
-
-export default {
-  primary: theme.primary,
-  secondary: theme.secondary
+const getTheme = () => {
+  const theme = themes[Math.floor(Math.random() * themes.length)]
+  return {
+    primary: theme.primary,
+    secondary: theme.secondary
+  }
 }
+
+export default getTheme
