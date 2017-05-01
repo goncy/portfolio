@@ -2,7 +2,7 @@ import React from 'react'
 
 const Button = ({ children, className = '', ...rest }) => (
   <a
-    className={`${className} f6 f5-ns b dim br1 ba ph3 pv2 dib pointer`}
+    className={`${className} f6 f5-ns b dim br1 ba ph3 pv2 dib pointer no-underline`}
     {...rest}
   >
     {children}
