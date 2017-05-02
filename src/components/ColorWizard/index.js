@@ -6,7 +6,7 @@ import Button from '../common/Button'
 export const ColorWizard = ({ handleChangeThemeClick, handleLikedClick, pristine, liked }) => (
   <div className='ColorWizard no-select'>
     <div className='tc pa2 pa4-ns'>
-      <div className='mw9 center ph2'>
+      <div className='mw9 center pa2'>
         {/* Pristine title */}
         {pristine && (
           <h1 className='f3 mt0 mb3'>
@@ -83,7 +83,6 @@ export const ColorWizardHOC = compose(
     handleLikedClick: ({ setPristine, setLiked, changeTheme }) => () => {
       setPristine(false)
       setLiked(true)
-      changeTheme()
     }
   })
 )

@@ -1,8 +1,10 @@
 import React from 'react'
 
-import { SecondaryBackground, PrimaryBackground } from '../common/themed/elements'
+import { elements } from '../common/themed'
 
 import './Spinner.css'
+
+const { SecondaryBackground, PrimaryBackground } = elements
 
 const Spinner = () => (
   <PrimaryBackground>

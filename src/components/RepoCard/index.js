@@ -1,7 +1,6 @@
 import React from 'react'
 
 import Icon from '../common/Icon'
-import { SecondaryColor } from '../common/themed/elements'
 
 import './RepoCard.css'
 
@@ -42,11 +41,9 @@ const RepoCard = ({ repo: { name, owner, html_url, stargazers_count, watchers, l
             />
             { forks }
           </h2>
-          <SecondaryColor>
-            <h3 className='f7 br-pill ba bw2 ph2 pv2 dib ttu tracked ma0'>
-              {language}
-            </h3>
-          </SecondaryColor>
+          <h3 className='f7 br-pill ba bw2 ph2 pv2 dib ttu tracked ma0'>
+            {language}
+          </h3>
         </div>
       </a>
     </article>

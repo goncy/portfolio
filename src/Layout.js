@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { ThemeProvider } from 'styled-components'
 
-import getTheme from './data/theme'
+import { getTheme } from './data'
 
 import App from './components/App'
 

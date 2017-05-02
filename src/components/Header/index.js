@@ -1,17 +1,19 @@
 import React from 'react'
 import { compose } from 'recompose'
 
-import { SOCIAL_LINKS } from '../../data/constants'
+import { constants } from '../../data'
 
 import Icon from '../common/Icon'
 import Avatar from '../common/Avatar'
 
 import './Header.css'
 
+const { SOCIAL_LINKS } = constants
+
 const Header = ({ githubProfile, linkedinResume }) => (
   <div className='Header'>
     <div className='tc pa2 pa4-ns'>
-      <div className='mw9 center ph2 pb1'>
+      <div className='mw9 center pa2'>
         <div className='cf'>
           <div className='w-100'>
             <Avatar
@@ -27,6 +29,9 @@ const Header = ({ githubProfile, linkedinResume }) => (
               </p>
               <p>
                 Actualmente tengo <span className='b'>{githubProfile.public_repos}</span> repositorios subidos a <span className='b'><a className='pointer no-underline' href={githubProfile.url}> mi GitHub</a></span>.
+              </p>
+              <p className='i f6 lh-copy'>
+                Información actualizada al 2017/04/31
               </p>
             </blockquote>
             <div className='w-100 overflow-auto'>
