@@ -5,7 +5,7 @@ import Button from '../common/Button'
 
 export const Skills = ({ linkedinResume }) => (
   <div className='tc pa2 pa4-ns'>
-    <div className='mw9 pa2'>
+    <div className='mw9 center pa2'>
       <ul className='ma0 ph0'>
         {linkedinResume.skills.map((item, index) => (
           <li
