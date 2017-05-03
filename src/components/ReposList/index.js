@@ -4,12 +4,14 @@ import RepoCard from '../RepoCard'
 
 import './ReposList.css'
 
+const REPOS_LIMIT = 15
+
 const ReposList = ({ githubRepositories, githubProfile }) => (
   <div className='ReposList'>
     <div className='tc pa2 pa4-ns'>
       <div className='mw9 center'>
         <div className='cf'>
-          {githubRepositories.map((repo, index) => (
+          {githubRepositories.slice(0, REPOS_LIMIT).map((repo, index) => (
             <RepoCard
               key={index}
               repo={repo}
@@ -23,7 +25,7 @@ const ReposList = ({ githubRepositories, githubProfile }) => (
             >
               <h1 className='f1 ma0'>
                 <span className='ph2'>
-                  { githubProfile.public_repos - 30 }
+                  { githubProfile.public_repos - REPOS_LIMIT }
                 </span>
                 <span className='plus-sign'>
                   +
