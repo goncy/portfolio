@@ -4,7 +4,7 @@
     "label": "Javascript Developer",
     "phone": "",
     "website": "",
-    "summary": "Soy Gonzalo Pozzo, tengo 24 años, soy de Quilmes, soy desarrollador Javascript.\n\nTodo el mundo tiene hobbies, el mio, principalmente, es aprender, nunca quedarse atras, investigar cual es la mejor opción, proponer el cambio y mejorar siempre lo mas que se pueda.\n\nSoy alumno activo en Pluralsight y paso un buen tiempo haciendo sus cursos, me recibí como diseñador multimedial en Da Vinci, empecé a trabajar por mi cuenta a los 13 años, haciendo webs, seguí mas profesionalmente a los 17, a los 20 terminé la carrera, a los 21 mi recibí y nunca, nunca, dejé de aprender.\n\nFui profesor de programación en primero de secundaria en el Colegio Enrico Fermi de Quilmes, donde también tuve alumnos de quinto de secundaria en diseño gráfico.\n\nMe encanta tener buenos grupos de trabajo con gente dinámica, proyectos cambiantes y tareas constantes y cortas.",
+    "summary": "Soy Gonzalo Pozzo, tengo 25 años, soy de Quilmes, soy desarrollador Javascript.\n\nTodo el mundo tiene hobbies, el mio, principalmente, es aprender, nunca quedarse atras, investigar cual es la mejor opción, proponer el cambio y mejorar siempre lo mas que se pueda.\n\nSoy alumno activo en Pluralsight y paso un buen tiempo haciendo sus cursos, me recibí como diseñador multimedial en Da Vinci, empecé a trabajar por mi cuenta a los 13 años, haciendo webs, seguí mas profesionalmente a los 17, a los 20 terminé la carrera, a los 21 mi recibí y nunca, nunca, dejé de aprender.\n\nFui profesor de programación en primero de secundaria en el Colegio Enrico Fermi de Quilmes, donde también tuve alumnos de quinto de secundaria en diseño gráfico.\n\nMe encanta tener buenos grupos de trabajo con gente dinámica, proyectos cambiantes y tareas constantes y cortas.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -28,8 +28,9 @@
       "position": "Software Engineer",
       "website": "",
       "startDate": "2016-06-01",
-      "summary": "",
-      "highlights": []
+      "summary": "Equipo de UI, stack: React, Redux, Sagas.",
+      "highlights": [],
+      "endDate": "2017-04-01"
     },
     {
       "company": "Etermax",
@@ -50,7 +51,7 @@
     },
     {
       "company": "El Termometro",
-      "position": "El Termometro Web",
+      "position": "Full-stack Developer",
       "website": "",
       "startDate": "2015-05-01",
       "summary": "Wordpress - www.eltermometroweb.com",
@@ -59,7 +60,7 @@
     },
     {
       "company": "Partido de Quilmes",
-      "position": "Desarrollador",
+      "position": "Full-stack Developer",
       "website": "",
       "startDate": "2015-05-01",
       "summary": "Mapa de reclamos para el partido de Quilmes",
@@ -68,7 +69,7 @@
     },
     {
       "company": "BASA",
-      "position": "BASA Web",
+      "position": "Full-stack Developer",
       "website": "",
       "startDate": "2015-05-01",
       "summary": "Wordpress - www.basaciac.com",
@@ -86,7 +87,7 @@
     },
     {
       "company": "Casa Imaz Ascensores",
-      "position": "Casa Imaz",
+      "position": "Frontend Developer",
       "website": "",
       "startDate": "2015-01-01",
       "summary": "Trabajos de diseño, carpetas, folleteria, web en proceso.",
@@ -103,7 +104,7 @@
     },
     {
       "company": "Dr. Roberto Albertazzi",
-      "position": "Keratoconus Easy Fix",
+      "position": "Full-stack Developer",
       "website": "",
       "startDate": "2014-08-01",
       "summary": "Trabajo de programacion en AS3 a largo plazo",
@@ -169,7 +170,32 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "XML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Desarrollo web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Flash",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Diseño web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Inglés",
       "level": "",
       "keywords": []
     },
@@ -184,7 +210,32 @@
       "keywords": []
     },
     {
+      "name": "Gulp.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Adobe Creative Suite",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AJAX",
       "level": "",
       "keywords": []
     },
@@ -194,7 +245,7 @@
       "keywords": []
     },
     {
-      "name": "Redes sociales",
+      "name": "Experiencia del usuario",
       "level": "",
       "keywords": []
     },
@@ -204,17 +255,17 @@
       "keywords": []
     },
     {
-      "name": "Microsoft PowerPoint",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Flash Professional",
+      "name": "Backbone.js",
       "level": "",
       "keywords": []
     },
     {
       "name": "Diseño gráfico",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
       "level": "",
       "keywords": []
     },
@@ -225,6 +276,11 @@
     },
     {
       "name": "AngularJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programación orientada a objetos",
       "level": "",
       "keywords": []
     },
@@ -249,17 +305,12 @@
       "keywords": []
     },
     {
-      "name": "Hojas de estilos en cascada (CSS)",
+      "name": "React.js",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Desarrollo de sitios web",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Web Applications",
+      "name": "Redux",
       "level": "",
       "keywords": []
     },
@@ -280,6 +331,11 @@
     },
     {
       "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Metodologías ágiles",
       "level": "",
       "keywords": []
     },
@@ -315,106 +371,6 @@
     },
     {
       "name": "HTML",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "XML",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Desarrollo web",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Dreamweaver",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Flash",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Diseño web",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "WordPress",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Inglés",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Gulp.js",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Linux",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Bootstrap",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Scrum",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Word",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "AJAX",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Excel",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Experiencia del usuario",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Backbone.js",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Programación orientada a objetos",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Metodologías ágiles",
       "level": "",
       "keywords": []
     }

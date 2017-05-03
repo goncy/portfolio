@@ -1,5 +1,5 @@
 import React from 'react'
-import compose from 'recompose/compose'
+import { compose } from 'recompose'
 
 export const Education = ({ linkedinResume }) => (
   <div className='tc pa2 pa4-ns Education'>

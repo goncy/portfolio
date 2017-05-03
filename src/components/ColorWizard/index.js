@@ -49,7 +49,7 @@ export const ColorWizard = ({ handleChangeThemeClick, handleLikedClick, pristine
             onClick={handleChangeThemeClick}
             className='f7-ns'
           >
-            Pero quiero seguir jugando
+            Pero quiero cambiarlos igual
           </Button>
         )}
       </div>
