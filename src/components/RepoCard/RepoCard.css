@@ -5,3 +5,14 @@
   color: inherit;
   word-break: break-all;
 }
+
+.RepoCard .card-box .card-language {
+  font-size: 5rem;
+  line-height: 8rem;
+  text-align: end;
+}
+
+.RepoCard .card-box .card-language::before {
+  padding-right: 1.1rem;
+  padding-top: 1.5rem;
+}

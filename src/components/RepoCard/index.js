@@ -1,5 +1,7 @@
 import React from 'react'
 
+import { getLanguageIcon } from './selectors'
+
 import Icon from '../common/Icon'
 
 import './RepoCard.css'
@@ -13,11 +15,7 @@ const RepoCard = ({ repo: { name, owner, html_url, stargazers_count, watchers, l
         target='_blank'
       >
         <div className='cf'>
-          <img
-            src={owner.avatar_url}
-            className='br-100 h4 w4 dib ba bw2 pa2'
-            alt='Owner avatar'
-          />
+          <i className={`br-100 h4 w4 dib ba bw2 pa2 ${getLanguageIcon(language)} card-language`} />
           <h1 className='f4 mb2'>{ name }</h1>
           <h2 className='f5 fw4 mt0'>
             <Icon
