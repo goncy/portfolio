@@ -13,7 +13,7 @@ const { SOCIAL_LINKS } = constants
 const Header = ({ githubProfile, linkedinResume }) => (
   <div className='Header'>
     <div className='tc pa2 pa4-ns'>
-      <div className='mw9 center pa2'>
+      <div className='mw9 center ph2 pv2 pv0-ns'>
         <div className='cf'>
           <div className='w-100'>
             <Avatar
@@ -27,7 +27,7 @@ const Header = ({ githubProfile, linkedinResume }) => (
               <p className='lh-copy f5'>
                 {linkedinResume.basics.summary}
               </p>
-              <p className='i f6 lh-copy'>
+              <p className='i f6 lh-copy pb1'>
                 Información actualizada al 2017/04/31
               </p>
             </blockquote>
