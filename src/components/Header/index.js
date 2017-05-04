@@ -28,7 +28,7 @@ const Header = ({ githubProfile, linkedinResume }) => (
                 {linkedinResume.basics.summary}
               </p>
               <p>
-                Actualmente tengo <span className='b'>{githubProfile.public_repos}</span> repositorios subidos a <span className='b'><a className='pointer no-underline' href={githubProfile.url}> mi GitHub</a></span>.
+                Actualmente tengo <span className='b'>{githubProfile.public_repos}</span> repositorios subidos a <span className='b'><a className='pointer no-underline' href={githubProfile.html_url}> mi GitHub</a></span>.
               </p>
               <p className='i f6 lh-copy'>
                 Información actualizada al 2017/04/31
