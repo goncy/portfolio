@@ -4,7 +4,7 @@ import RepoCard from '../RepoCard'
 
 import './ReposList.css'
 
-const REPOS_LIMIT = 15
+const REPOS_LIMIT = 11
 
 const ReposList = ({ githubRepositories, githubProfile }) => (
   <div className='ReposList'>
