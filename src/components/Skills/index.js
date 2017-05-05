@@ -5,6 +5,9 @@ import Button from '../common/Button'
 
 export const Skills = ({ linkedinResume }) => (
   <div className='tc pa2 pa4-ns'>
+    <h1 className='f3 mt3 mt0-ns mb3 lh-title'>
+      Habilidades
+    </h1>
     <div className='mw9 center pa2'>
       <ul className='ma0 ph0'>
         {linkedinResume.skills.map((item, index) => (

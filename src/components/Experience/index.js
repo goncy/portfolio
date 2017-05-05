@@ -5,6 +5,9 @@ import './Experience.css'
 
 export const Experience = ({ linkedinResume }) => (
   <div className='tc pa2 pa4-ns Experience'>
+    <h1 className='f3 mt3 mt0-ns mb3 lh-title'>
+      Experiencia
+    </h1>
     <div className='jobs-container mw9 center pa2'>
       {linkedinResume.work.map((item, index) => (
         <div
