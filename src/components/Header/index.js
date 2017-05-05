@@ -24,7 +24,7 @@ const Header = ({ githubProfile, linkedinResume }) => (
           <div className='w-100'>
             <span className='f1 b db'>{ linkedinResume.basics.name }</span>
             <blockquote className='ph0 bb mh0 mt0'>
-              <p className='lh-copy f5'>
+              <p className='lh-copy f5 measure-wide center'>
                 {linkedinResume.basics.summary}
               </p>
               <p className='i f6 lh-copy pb1'>
