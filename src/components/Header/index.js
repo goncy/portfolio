@@ -31,7 +31,7 @@ const Header = ({ githubProfile, linkedinResume }) => (
                 Información actualizada al 2017/04/31
               </p>
             </blockquote>
-            <div className='w-100 overflow-auto'>
+            <div className='w-100 overflow-hidden'>
               <div className='social-container'>
                 {SOCIAL_LINKS.map((item, index) => (
                   <a
