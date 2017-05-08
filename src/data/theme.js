@@ -1,5 +1,3 @@
-let lastTheme = null
-
 const green = '#19a974'
 const navy = '#001b44'
 const red = '#EA4335'
@@ -84,7 +82,9 @@ const themes = [{
   secondary: lightestBlue
 }]
 
-const getTheme = () => {
+let nextThemes = themes.slice(0)
+
+/* const getTheme = () => {
   if (!lastTheme) {
     lastTheme = themes[0]
     return lastTheme
@@ -97,6 +97,18 @@ const getTheme = () => {
   }
 
   lastTheme = theme
+
+  return theme
+} */
+
+const getTheme = () => {
+  const theme = nextThemes.shift()
+
+  if (!nextThemes.length) {
+    nextThemes = themes.slice(0)
+  }
+
+  console.log(themes, nextThemes)
 
   return theme
 }
