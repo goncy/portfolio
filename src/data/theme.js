@@ -84,31 +84,12 @@ const themes = [{
 
 let nextThemes = themes.slice(0)
 
-/* const getTheme = () => {
-  if (!lastTheme) {
-    lastTheme = themes[0]
-    return lastTheme
-  }
-
-  let theme = null
-
-  while (!theme || lastTheme === theme) {
-    theme = themes[Math.floor(Math.random() * themes.length)]
-  }
-
-  lastTheme = theme
-
-  return theme
-} */
-
 const getTheme = () => {
   const theme = nextThemes.shift()
 
   if (!nextThemes.length) {
     nextThemes = themes.slice(0)
   }
-
-  console.log(themes, nextThemes)
 
   return theme
 }
