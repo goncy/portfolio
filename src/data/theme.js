@@ -20,6 +20,9 @@ const googleGreen = '#34A853'
 const black = '#111111'
 
 const themes = [{
+  primary: navy,
+  secondary: white
+}, {
   primary: green,
   secondary: navy
 }, {
@@ -31,9 +34,6 @@ const themes = [{
 }, {
   primary: lightGreen,
   secondary: navy
-}, {
-  primary: navy,
-  secondary: white
 }, {
   primary: blue,
   secondary: white
@@ -85,6 +85,11 @@ const themes = [{
 }]
 
 const getTheme = () => {
+  if (!lastTheme) {
+    lastTheme = themes[0]
+    return lastTheme
+  }
+
   let theme = null
 
   while (!theme || lastTheme === theme) {
@@ -93,10 +98,7 @@ const getTheme = () => {
 
   lastTheme = theme
 
-  return {
-    primary: theme.primary,
-    secondary: theme.secondary
-  }
+  return theme
 }
 
 export default getTheme
