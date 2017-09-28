@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Gonzalo Pozzo",
-    "label": "Javascript Developer",
+    "label": "I'm a Javascript developer (usually working with the React - Redux stack). I'm 25 years old and i have a Multimedia Designer degree from Escuela Davinci, i never stopped learning.\n\n---\n\nSoy desarrollador Javascript (usualmente trabajando con React - Redux), tengo 25 años y vivo en Quilmes.\nMe recibí como diseñador multimedial en Escuela Da Vinci y desde entonces nunca dejé de aprender.",
     "phone": "",
     "website": "",
-    "summary": "Soy desarrollador Javascript, tengo 25 años y vivo en Quilmes.\n\nMe recibí como diseñador multimedial en la Escuela Da Vinci hace 4 años y desde entonces nunca dejé de aprender.",
+    "summary": "Programas informáticos",
     "location": {
-      "address": "",
+      "address": "May 4, 1992",
       "postalCode": "",
       "city": "",
       "countryCode": "",
@@ -17,135 +17,138 @@
   "work": [
     {
       "company": "The Next Ad",
-      "position": "Senior Frontend Developer",
+      "position": "",
       "website": "",
-      "startDate": "2017-04-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "company": "Mad Mobile",
-      "position": "Software Engineer",
-      "website": "",
-      "startDate": "2016-06-01",
-      "summary": "Equipo de UI, stack: React, Redux, Sagas.",
+      "startDate": "undefined-Gran Buenos Aires, Argentina-01",
+      "summary": "Senior Frontend Developer",
       "highlights": [],
-      "endDate": "2017-04-01"
-    },
-    {
-      "company": "Etermax",
-      "position": "Javascript Developer",
-      "website": "",
-      "startDate": "2015-11-01",
-      "summary": "Common web & Javascript Developer",
-      "highlights": [],
-      "endDate": "2016-06-01"
-    },
-    {
-      "company": "Grupo Prop",
-      "position": "Creador y Full Stack Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "summary": "Creador de GrupoProp, sistema de administración inmobiliaria online con front-end para clientes\n\nweb: www.grupoprop.com\ndemo: www.grupoprop.com/demo\nmas info: http://grupoprop.com/presentacion.pdf",
-      "highlights": []
-    },
-    {
-      "company": "El Termometro",
-      "position": "Full-stack Developer",
-      "website": "",
-      "startDate": "2015-05-01",
-      "summary": "Wordpress - www.eltermometroweb.com",
-      "highlights": [],
-      "endDate": "2015-05-01"
-    },
-    {
-      "company": "Partido de Quilmes",
-      "position": "Full-stack Developer",
-      "website": "",
-      "startDate": "2015-05-01",
-      "summary": "Mapa de reclamos para el partido de Quilmes",
-      "highlights": [],
-      "endDate": "2016-05-01"
-    },
-    {
-      "company": "BASA",
-      "position": "Full-stack Developer",
-      "website": "",
-      "startDate": "2015-05-01",
-      "summary": "Wordpress - www.basaciac.com",
-      "highlights": [],
-      "endDate": "2015-05-01"
-    },
-    {
-      "company": "Enrico Fermi",
-      "position": "Docente",
-      "website": "",
-      "startDate": "2015-03-01",
-      "summary": "Docente de computacion (Python con Pilas Engine) a curso de primero de secundaria.\nDocente de Diseño Grafico a curso de quinto de secundaria.",
-      "highlights": [],
-      "endDate": "2016-03-01"
-    },
-    {
-      "company": "Casa Imaz Ascensores",
-      "position": "Frontend Developer",
-      "website": "",
-      "startDate": "2015-01-01",
-      "summary": "Trabajos de diseño, carpetas, folleteria, web en proceso.",
-      "highlights": [],
-      "endDate": "2015-03-01"
+      "endDate": "undefined-Apr 2017-01"
     },
     {
       "company": "FACARA",
-      "position": "Diseñador",
+      "position": "",
       "website": "",
-      "startDate": "2014-12-01",
-      "summary": "Encargado de diseño de la empresa",
-      "highlights": []
+      "startDate": "undefined-Gran Buenos Aires, Argentina-01",
+      "summary": "Diseñador",
+      "highlights": [],
+      "endDate": "undefined-Dec 2014-01"
     },
     {
-      "company": "Dr. Roberto Albertazzi",
-      "position": "Full-stack Developer",
+      "company": "Grupo Prop",
+      "position": "Aug 2017",
       "website": "",
-      "startDate": "2014-08-01",
-      "summary": "Trabajo de programacion en AS3 a largo plazo",
+      "startDate": "undefined-Argentina-01",
+      "summary": "Creador y Full Stack Developer",
       "highlights": [],
-      "endDate": "2015-11-01"
+      "endDate": "undefined-Aug 2015-01"
     },
     {
-      "company": "Ares Richmedia",
-      "position": "Full Stack Developer",
+      "company": "Mad Mobile",
+      "position": "Apr 2017",
       "website": "",
-      "startDate": "2014-08-01",
-      "summary": "Trabajos en sub contratación:\n\nVPM - Planner Clientes, Planner Empleados (Front, Back).\nLa Paulina - Aplicación para Facebook, promoción día de la madre.",
+      "startDate": "undefined-0-01",
+      "summary": "Software Engineer",
       "highlights": [],
-      "endDate": "2015-02-01"
+      "endDate": "undefined-Jun 2016-01"
     },
     {
-      "company": "Zenoel",
-      "position": "Software Developer",
+      "company": "Etermax",
+      "position": "Jun 2016",
       "website": "",
-      "startDate": "2014-05-01",
-      "summary": "Software developer en Zenoel",
+      "startDate": "undefined-Gran Buenos Aires, Argentina-01",
+      "summary": "Javascript Developer",
       "highlights": [],
-      "endDate": "2014-11-01"
+      "endDate": "undefined-Nov 2015-01"
+    },
+    {
+      "company": "Partido de Quilmes",
+      "position": "May 2016",
+      "website": "",
+      "startDate": "undefined-0-01",
+      "summary": "Full-stack Developer",
+      "highlights": [],
+      "endDate": "undefined-May 2015-01"
     },
     {
       "company": "Acceso Total",
-      "position": "AS3 Developer",
+      "position": "Apr 2016",
       "website": "",
-      "startDate": "2012-06-01",
-      "summary": "Trabajo Free Lance a largo plazo de programación en AS3",
+      "startDate": "undefined-Capital federal-01",
+      "summary": "AS3 Developer",
       "highlights": [],
-      "endDate": "2016-04-01"
+      "endDate": "undefined-Jun 2012-01"
+    },
+    {
+      "company": "Enrico Fermi",
+      "position": "Mar 2016",
+      "website": "",
+      "startDate": "undefined-Quilmes-01",
+      "summary": "Docente",
+      "highlights": [],
+      "endDate": "undefined-Mar 2015-01"
+    },
+    {
+      "company": "Dr. Roberto Albertazzi",
+      "position": "Nov 2015",
+      "website": "",
+      "startDate": "undefined-Quilmes-01",
+      "summary": "Full-stack Developer",
+      "highlights": [],
+      "endDate": "undefined-Aug 2014-01"
+    },
+    {
+      "company": "El Termometro",
+      "position": "May 2015",
+      "website": "",
+      "startDate": "undefined-0-01",
+      "summary": "Full-stack Developer",
+      "highlights": [],
+      "endDate": "undefined-May 2015-01"
+    },
+    {
+      "company": "BASA",
+      "position": "May 2015",
+      "website": "",
+      "startDate": "undefined-0-01",
+      "summary": "Full-stack Developer",
+      "highlights": [],
+      "endDate": "undefined-May 2015-01"
     },
     {
       "company": "La Campora Quilmes",
-      "position": "Diseñador de campaña",
+      "position": "Apr 2015",
       "website": "",
-      "startDate": "2012-01-01",
-      "summary": "Diseñador de campaña de La Campora Quilmes, Secretaria PJ Mujer y Dip. Nac. Mayra Mendoza.",
+      "startDate": "undefined-Quilmes-01",
+      "summary": "Diseñador de campaña",
       "highlights": [],
-      "endDate": "2015-04-01"
+      "endDate": "undefined-Jan 2012-01"
+    },
+    {
+      "company": "Casa Imaz Ascensores",
+      "position": "Mar 2015",
+      "website": "",
+      "startDate": "undefined-0-01",
+      "summary": "Frontend Developer",
+      "highlights": [],
+      "endDate": "undefined-Jan 2015-01"
+    },
+    {
+      "company": "Ares Richmedia",
+      "position": "Feb 2015",
+      "website": "",
+      "startDate": "undefined-Capital Federal-01",
+      "summary": "Full Stack Developer",
+      "highlights": [],
+      "endDate": "undefined-Aug 2014-01"
+    },
+    {
+      "company": "Zenoel",
+      "position": "Nov 2014",
+      "website": "",
+      "startDate": "undefined-Quilmes-01",
+      "summary": "Software Developer",
+      "highlights": [],
+      "endDate": "undefined-May 2014-01"
     }
   ],
   "education": [
@@ -169,6 +172,86 @@
     }
   ],
   "skills": [
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Redux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Front-end",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Inglés",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ActionScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Photoshop",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Illustrator",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programación",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
     {
       "name": "XML",
       "level": "",
@@ -195,37 +278,7 @@
       "keywords": []
     },
     {
-      "name": "Inglés",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Vue",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Electron",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Gulp.js",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Linux",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Bootstrap",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Scrum",
       "level": "",
       "keywords": []
     },
@@ -235,42 +288,7 @@
       "keywords": []
     },
     {
-      "name": "AJAX",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Photoshop",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Experiencia del usuario",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Illustrator",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Backbone.js",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Diseño gráfico",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Programación",
       "level": "",
       "keywords": []
     },
@@ -280,72 +298,7 @@
       "keywords": []
     },
     {
-      "name": "Programación orientada a objetos",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "CSS",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Node.js",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Aplicaciones Web",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "ActionScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "React.js",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Redux",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PHP",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "MySQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML5",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "jQuery",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Metodologías ágiles",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Español",
       "level": "",
       "keywords": []
     },
@@ -360,17 +313,62 @@
       "keywords": []
     },
     {
-      "name": "Front-end",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "SQL",
       "level": "",
       "keywords": []
     },
     {
-      "name": "HTML",
+      "name": "Gulp.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AJAX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Experiencia del usuario",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Backbone.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programación orientada a objetos",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Metodologías ágiles",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vue",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Electron",
       "level": "",
       "keywords": []
     }
@@ -378,70 +376,68 @@
   "languages": [
     {
       "language": "Español",
-      "fluency": "Native or bilingual"
+      "fluency": "Native or bilingual proficiency"
     },
     {
       "language": "Inglés",
-      "fluency": "Professional working"
+      "fluency": "Professional working proficiency"
     }
   ],
-  "interests": [
+  "references": [
     {
-      "name": "Programacion",
-      "keywords": []
-    },
-    {
-      "name": " tecnologia",
-      "keywords": []
-    },
-    {
-      "name": " diseño multimedial",
-      "keywords": []
+      "name": "Sergio Minutoli - Gonzalo es un desarrollador colaborativo, autoexigente y generoso. Como compañero de trabajo siempre está predispuesto a ayudar, tiene mucha facilidad para aprender y explicar lo aprendido a otros. Es de las personas que hacen que las cosas parezcan fáciles, y su punto de vista es un valor agregado a los proyectos.",
+      "reference": "Desarrollador frontend"
     }
   ],
-  "references": [],
   "projects": [
     {
-      "name": "¿Dónde está el tren?",
-      "startDate": "2017-01-01",
-      "summary": "Saber donde estan los trenes de los distintos ramales y lineas de Buenos Aires, Argentina",
-      "url": "https://github.com/goncy/trenes"
-    },
-    {
-      "name": "AFIPizador",
-      "startDate": "2016-12-01",
-      "summary": "Extension de Chrome para usar la web de la AFIP",
-      "url": "https://github.com/goncy/AFIPizador"
-    },
-    {
-      "name": "Trivia Crack Kingdoms - Backoffice",
-      "startDate": "2015-12-01",
-      "summary": "Backoffice para Trivia Crack Kingdoms",
-      "url": "http://factory.triviacrackkingdoms.com/"
-    },
-    {
-      "name": "Generador de mapas",
-      "startDate": "2015-11-01",
-      "summary": "El Mapa Interactivo desarrollado por Gonzalo Pozzo posee las siguientes funcionalidades.\n\nPersonalización con el nombre/mail del cliente.\nPersonalización con el nombre/mail del desarrollador/mantenedor.\nTítulos y descripciones meta para SEO.\nInfinidad de categorías (No posee sub-categorías).\nDelimitación de zona.\nAutolocalizacion GPS.\nIngreso a usuarios libres o administrador de nuevos registros.\nEliminación a usuarios libres o administrador de registros existentes.\nPosibilidad de visualizar datos previamente ingresados en una ventana.\nPersonalización de los datos a visualizar en la ventana.\nMáximo ingreso de registros por sesión.\nMáxima eliminación de registros por sesión.\nPie de página fijo con información del cliente/desarrollador/mantenedor.\nTrackeo de estadísticas por Google Analytics.\nSeteo de zoom mínimo.\nSeteo de centro por defecto.\nSeteo de configuraciones de control.\nSistema de filtrado de registros.\nPuntos fijos no editables/agregables por nadie mas que un administrador.",
-      "url": "https://github.com/goncy/mapgen"
+      "name": "Easy Fix",
+      "startDate": "undefined-ICRS de Queratocono-01",
+      "summary": "",
+      "url": "",
+      "endDate": "-https:-01"
     },
     {
       "name": "Grupo Prop",
-      "startDate": "2015-08-01",
-      "summary": "Proyecto de administración inmobiliaria On Line con front-end para clientes",
-      "url": "http://www.grupoprop.com"
+      "startDate": "undefined-Proyecto de administración inmobiliaria On Line con front-end para clientes-01",
+      "summary": "Aug 2015",
+      "url": "",
+      "endDate": "-http:-01"
     },
     {
       "name": "Mapa de reclamos del partido de Quilmes",
-      "startDate": "2015-05-01",
-      "summary": "Mapa de reclamos del partido de Quilmes",
-      "url": "http://www.clubbernal.com.ar/mapa"
+      "startDate": "undefined-Mapa de reclamos del partido de Quilmes-01",
+      "summary": "May 2015",
+      "url": "",
+      "endDate": "-http:-01"
     },
     {
-      "name": "Easy Fix",
-      "startDate": "undefined-0-01",
-      "summary": "ICRS de Queratocono",
-      "url": "https://play.google.com/store/apps/details?id=air.EasyFix&hl=es_419"
+      "name": "Generador de mapas",
+      "startDate": "mail del cliente.\nPersonalización con el nombre-El Mapa Interactivo desarrollado por Gonzalo Pozzo posee las siguientes funcionalidades.\n\nPersonalización con el nombre-01",
+      "summary": "Nov 2015",
+      "url": "",
+      "endDate": "-https:-01"
+    },
+    {
+      "name": "Trivia Crack Kingdoms - Backoffice",
+      "startDate": "undefined-Backoffice para Trivia Crack Kingdoms-01",
+      "summary": "Dec 2015",
+      "url": "",
+      "endDate": "-http:-01"
+    },
+    {
+      "name": "AFIPizador",
+      "startDate": "undefined-Extension de Chrome para usar la web de la AFIP-01",
+      "summary": "Dec 2016",
+      "url": "",
+      "endDate": "-https:-01"
+    },
+    {
+      "name": "¿Dónde está el tren?",
+      "startDate": "undefined-Saber donde estan los trenes de los distintos ramales y lineas de Buenos Aires, Argentina-01",
+      "summary": "Jan 2017",
+      "url": "",
+      "endDate": "-https:-01"
     }
   ]
 }
