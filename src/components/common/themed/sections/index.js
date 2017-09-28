@@ -25,4 +25,3 @@ export const SecondaryBackgroundSection = ({ children }) => (
 SecondaryBackgroundSection.propTypes = {
   children: React.PropTypes.node.isRequired
 }
-

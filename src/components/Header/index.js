@@ -25,10 +25,10 @@ const Header = ({ githubProfile, linkedinResume }) => (
             <span className='f1 b db'>{ linkedinResume.basics.name }</span>
             <blockquote className='ph0 bb mh0 mt0'>
               <p className='lh-copy f5 measure-wide center'>
-                {linkedinResume.basics.summary}
+                {linkedinResume.basics.label}
               </p>
               <p className='i f6 lh-copy pb1'>
-                Información actualizada al 2017/04/31
+                Information updated to 2017/09/28
               </p>
             </blockquote>
             <div className='w-100 overflow-hidden'>

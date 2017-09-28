@@ -10,21 +10,21 @@ export const ColorWizard = ({ handleChangeThemeClick, handleLikedClick, pristine
         {/* Pristine title */}
         {pristine && (
           <h1 className='f3 mt0 mb3'>
-            ¿Te gustan los colores de la web?
+            ¿Do you like this web colors?
           </h1>
         )}
 
         {/* Didn't liked title */}
         {!pristine && !liked && (
           <h1 className='f3 mt0 mb3'>
-            ¿Ahora?
+            ¿Now?
           </h1>
         )}
 
         {/* Liked title */}
         {!pristine && liked && (
           <h1 className='f3 mt0 mb3'>
-            ¡Genial!
+            ¡Great!
           </h1>
         )}
 
@@ -32,7 +32,7 @@ export const ColorWizard = ({ handleChangeThemeClick, handleLikedClick, pristine
         {!liked && (
           <div>
             <Button onClick={handleLikedClick}>
-              Si
+              Yes
             </Button>
             <Button
               onClick={handleChangeThemeClick}
@@ -49,7 +49,7 @@ export const ColorWizard = ({ handleChangeThemeClick, handleLikedClick, pristine
             onClick={handleChangeThemeClick}
             className='f7-ns'
           >
-            Pero quiero cambiarlos igual
+            I want to change them anyway
           </Button>
         )}
       </div>

@@ -1,4 +1,6 @@
 import React from 'react'
+import R from 'ramda'
+import {compose, withProps} from 'recompose'
 
 import RepoCard from '../RepoCard'
 
@@ -9,7 +11,7 @@ const REPOS_LIMIT = 11
 const ReposList = ({ githubRepositories, githubProfile }) => (
   <div className='tc pa2 pa4-ns ReposList'>
     <h1 className='f3 mt3 mt0-ns mb3 lh-title'>
-      Repositorios
+      Repositories
     </h1>
     <div className='mw9 center'>
       <div className='cf'>
@@ -45,4 +47,13 @@ ReposList.propTypes = {
   githubProfile: React.PropTypes.object.isRequired
 }
 
-export default ReposList
+const ReposListHOC = compose(
+  withProps(({githubRepositories}) => ({
+    githubRepositories: R.pipe(
+      R.sort(R.prop('stargazers_count')),
+      R.reverse
+    )(githubRepositories)
+  }))
+)
+
+export default ReposListHOC(ReposList)

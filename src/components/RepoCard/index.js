@@ -40,7 +40,7 @@ const RepoCard = ({ repo: { name, owner, html_url, stargazers_count, watchers, l
             { forks }
           </h2>
           <h3 className='f7 br-pill ba bw2 ph2 pv2 dib ttu tracked ma0'>
-            {language}
+            {language || 'mixed'}
           </h3>
         </div>
       </a>

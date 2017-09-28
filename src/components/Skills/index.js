@@ -6,7 +6,7 @@ import Button from '../common/Button'
 export const Skills = ({ linkedinResume }) => (
   <div className='tc pa2 pa4-ns'>
     <h1 className='f3 mt3 mt0-ns mb3 lh-title'>
-      Habilidades
+      Skills
     </h1>
     <div className='mw9 center pa2'>
       <ul className='ma0 ph0'>
@@ -25,7 +25,7 @@ export const Skills = ({ linkedinResume }) => (
         ))}
       </ul>
       <div className='f6 f5-ns b db pa2 ba dib mt3 br1'>
-        Múchas más
+        Much more
       </div>
     </div>
   </div>

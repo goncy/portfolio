@@ -12,7 +12,7 @@ export const Extra = ({ data }) => (
       <div>
         <div className='measure center tc cf mv4'>
           <div className='fl w-100 w-50-ns mb4 mb0-ns'>
-            <h4 className='f5 f4-l fw6 mt0 mb1'>Requerimientos</h4>
+            <h4 className='f5 f4-l fw6 mt0 mb1'>Requirements</h4>
             <ul className='list pl0 mv0'>
               {data.requirements.map((item, index) => (
                 <li
@@ -25,7 +25,7 @@ export const Extra = ({ data }) => (
             </ul>
           </div>
           <div className='fl w-100 w-50-ns'>
-            <h4 className='f5 f4-l fw6 mt0 mb1'>Preferencias</h4>
+            <h4 className='f5 f4-l fw6 mt0 mb1'>Preferences</h4>
             <ul className='list pl0 mv0'>
               {data.preferences.map((item, index) => (
                 <li

@@ -6,7 +6,7 @@ import { getQueryParameter } from './selectors'
 export const Greeter = ({ visitor }) => (
   <div className='tc pa1 ph2'>
     <h1 className='f3 lh-copy ma0'>
-      ¡Hola { visitor }!
+      👋 { visitor }
     </h1>
   </div>
 )

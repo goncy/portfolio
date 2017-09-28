@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Gonzalo Pozzo",
-    "label": "I'm a Javascript developer (usually working with the React - Redux stack). I'm 25 years old and i have a Multimedia Designer degree from Escuela Davinci, i never stopped learning.\n\n---\n\nSoy desarrollador Javascript (usualmente trabajando con React - Redux), tengo 25 años y vivo en Quilmes.\nMe recibí como diseñador multimedial en Escuela Da Vinci y desde entonces nunca dejé de aprender.",
+    "label": "I'm a Javascript developer (usually working with the React - Redux stack). I'm 25 years old and i have a Multimedia Designer degree from Escuela Davinci, i never stopped learning.",
     "phone": "",
     "website": "",
     "summary": "Programas informáticos",
@@ -17,138 +17,138 @@
   "work": [
     {
       "company": "The Next Ad",
-      "position": "",
+      "endDate": "",
       "website": "",
-      "startDate": "undefined-Gran Buenos Aires, Argentina-01",
+      "location": "",
       "summary": "Senior Frontend Developer",
       "highlights": [],
-      "endDate": "undefined-Apr 2017-01"
+      "startDate": "Apr 2017"
     },
     {
       "company": "FACARA",
-      "position": "",
+      "endDate": "",
       "website": "",
-      "startDate": "undefined-Gran Buenos Aires, Argentina-01",
+      "location": "",
       "summary": "Diseñador",
       "highlights": [],
-      "endDate": "undefined-Dec 2014-01"
+      "startDate": "Dec 2014"
     },
     {
       "company": "Grupo Prop",
-      "position": "Aug 2017",
+      "endDate": "Aug 2017",
       "website": "",
-      "startDate": "undefined-Argentina-01",
+      "location": "Argentina",
       "summary": "Creador y Full Stack Developer",
       "highlights": [],
-      "endDate": "undefined-Aug 2015-01"
+      "startDate": "Aug 2015"
     },
     {
       "company": "Mad Mobile",
-      "position": "Apr 2017",
+      "endDate": "Apr 2017",
       "website": "",
-      "startDate": "undefined-0-01",
+      "location": "0",
       "summary": "Software Engineer",
       "highlights": [],
-      "endDate": "undefined-Jun 2016-01"
+      "startDate": "Jun 2016"
     },
     {
       "company": "Etermax",
-      "position": "Jun 2016",
+      "endDate": "Jun 2016",
       "website": "",
-      "startDate": "undefined-Gran Buenos Aires, Argentina-01",
+      "location": "",
       "summary": "Javascript Developer",
       "highlights": [],
-      "endDate": "undefined-Nov 2015-01"
+      "startDate": "Nov 2015"
     },
     {
       "company": "Partido de Quilmes",
-      "position": "May 2016",
+      "endDate": "May 2016",
       "website": "",
-      "startDate": "undefined-0-01",
+      "location": "0",
       "summary": "Full-stack Developer",
       "highlights": [],
-      "endDate": "undefined-May 2015-01"
+      "startDate": "May 2015"
     },
     {
       "company": "Acceso Total",
-      "position": "Apr 2016",
+      "endDate": "Apr 2016",
       "website": "",
-      "startDate": "undefined-Capital federal-01",
+      "location": "Capital federal",
       "summary": "AS3 Developer",
       "highlights": [],
-      "endDate": "undefined-Jun 2012-01"
+      "startDate": "Jun 2012"
     },
     {
       "company": "Enrico Fermi",
-      "position": "Mar 2016",
+      "endDate": "Mar 2016",
       "website": "",
-      "startDate": "undefined-Quilmes-01",
+      "location": "Quilmes",
       "summary": "Docente",
       "highlights": [],
-      "endDate": "undefined-Mar 2015-01"
+      "startDate": "Mar 2015"
     },
     {
       "company": "Dr. Roberto Albertazzi",
-      "position": "Nov 2015",
+      "endDate": "Nov 2015",
       "website": "",
-      "startDate": "undefined-Quilmes-01",
+      "location": "Quilmes",
       "summary": "Full-stack Developer",
       "highlights": [],
-      "endDate": "undefined-Aug 2014-01"
+      "startDate": "Aug 2014"
     },
     {
       "company": "El Termometro",
-      "position": "May 2015",
+      "endDate": "May 2015",
       "website": "",
-      "startDate": "undefined-0-01",
+      "location": "0",
       "summary": "Full-stack Developer",
       "highlights": [],
-      "endDate": "undefined-May 2015-01"
+      "startDate": "May 2015"
     },
     {
       "company": "BASA",
-      "position": "May 2015",
+      "endDate": "May 2015",
       "website": "",
-      "startDate": "undefined-0-01",
+      "location": "0",
       "summary": "Full-stack Developer",
       "highlights": [],
-      "endDate": "undefined-May 2015-01"
+      "startDate": "May 2015"
     },
     {
       "company": "La Campora Quilmes",
-      "position": "Apr 2015",
+      "endDate": "Apr 2015",
       "website": "",
-      "startDate": "undefined-Quilmes-01",
+      "location": "Quilmes",
       "summary": "Diseñador de campaña",
       "highlights": [],
-      "endDate": "undefined-Jan 2012-01"
+      "startDate": "Jan 2012"
     },
     {
       "company": "Casa Imaz Ascensores",
-      "position": "Mar 2015",
+      "endDate": "Mar 2015",
       "website": "",
-      "startDate": "undefined-0-01",
+      "location": "0",
       "summary": "Frontend Developer",
       "highlights": [],
-      "endDate": "undefined-Jan 2015-01"
+      "startDate": "Jan 2015"
     },
     {
       "company": "Ares Richmedia",
-      "position": "Feb 2015",
+      "endDate": "Feb 2015",
       "website": "",
-      "startDate": "undefined-Capital Federal-01",
+      "location": "Capital Federal",
       "summary": "Full Stack Developer",
       "highlights": [],
-      "endDate": "undefined-Aug 2014-01"
+      "startDate": "Aug 2014"
     },
     {
       "company": "Zenoel",
-      "position": "Nov 2014",
+      "endDate": "Nov 2014",
       "website": "",
-      "startDate": "undefined-Quilmes-01",
+      "location": "Quilmes",
       "summary": "Software Developer",
       "highlights": [],
-      "endDate": "undefined-May 2014-01"
+      "startDate": "May 2014"
     }
   ],
   "education": [
@@ -156,19 +156,19 @@
       "institution": "Primera escuela de arte multimedial Da Vinci",
       "area": "",
       "studyType": "Diseñador multimedial",
-      "startDate": "2011-01-01",
+      "startDate": "2011",
       "gpa": "",
       "courses": [],
-      "endDate": "2014-01-01"
+      "endDate": "2014"
     },
     {
       "institution": "Free Code Camp",
       "area": "",
       "studyType": "Full Stack Web Development Certification",
-      "startDate": "2016-01-01",
+      "startDate": "2016",
       "gpa": "",
       "courses": [],
-      "endDate": "2017-01-01"
+      "endDate": "2017"
     }
   ],
   "skills": [
@@ -392,52 +392,52 @@
   "projects": [
     {
       "name": "Easy Fix",
-      "startDate": "undefined-ICRS de Queratocono-01",
+      "startDate": "ICRS de Queratocono",
       "summary": "",
       "url": "",
-      "endDate": "-https:-01"
+      "endDate": "-https:"
     },
     {
       "name": "Grupo Prop",
-      "startDate": "undefined-Proyecto de administración inmobiliaria On Line con front-end para clientes-01",
+      "startDate": "Proyecto de administración inmobiliaria On Line con front-end para clientes",
       "summary": "Aug 2015",
       "url": "",
-      "endDate": "-http:-01"
+      "endDate": "-http:"
     },
     {
       "name": "Mapa de reclamos del partido de Quilmes",
-      "startDate": "undefined-Mapa de reclamos del partido de Quilmes-01",
+      "startDate": "Mapa de reclamos del partido de Quilmes",
       "summary": "May 2015",
       "url": "",
-      "endDate": "-http:-01"
+      "endDate": "-http:"
     },
     {
       "name": "Generador de mapas",
-      "startDate": "mail del cliente.\nPersonalización con el nombre-El Mapa Interactivo desarrollado por Gonzalo Pozzo posee las siguientes funcionalidades.\n\nPersonalización con el nombre-01",
+      "startDate": "mail del cliente.\nPersonalización con el nombre-El Mapa Interactivo desarrollado por Gonzalo Pozzo posee las siguientes funcionalidades.\n\nPersonalización con el nombre",
       "summary": "Nov 2015",
       "url": "",
-      "endDate": "-https:-01"
+      "endDate": "-https:"
     },
     {
       "name": "Trivia Crack Kingdoms - Backoffice",
-      "startDate": "undefined-Backoffice para Trivia Crack Kingdoms-01",
+      "startDate": "Backoffice para Trivia Crack Kingdoms",
       "summary": "Dec 2015",
       "url": "",
-      "endDate": "-http:-01"
+      "endDate": "-http:"
     },
     {
       "name": "AFIPizador",
-      "startDate": "undefined-Extension de Chrome para usar la web de la AFIP-01",
+      "startDate": "Extension de Chrome para usar la web de la AFIP",
       "summary": "Dec 2016",
       "url": "",
-      "endDate": "-https:-01"
+      "endDate": "-https:"
     },
     {
       "name": "¿Dónde está el tren?",
-      "startDate": "undefined-Saber donde estan los trenes de los distintos ramales y lineas de Buenos Aires, Argentina-01",
+      "startDate": "Saber donde estan los trenes de los distintos ramales y lineas de Buenos Aires, Argentina",
       "summary": "Jan 2017",
       "url": "",
-      "endDate": "-https:-01"
+      "endDate": "-https:"
     }
   ]
 }

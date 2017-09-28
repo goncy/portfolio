@@ -6,7 +6,7 @@ import './Experience.css'
 export const Experience = ({ linkedinResume }) => (
   <div className='tc pa2 pa4-ns Experience'>
     <h1 className='f3 mt3 mt0-ns mb3 lh-title'>
-      Experiencia
+      Experience
     </h1>
     <div className='jobs-container mw9 center pa2'>
       {linkedinResume.work.map((item, index) => (
@@ -27,7 +27,7 @@ export const Experience = ({ linkedinResume }) => (
           </div>
           <div className='dtc v-mid tr'>
             <p className='f7 f6-ns db'>
-              { item.startDate } - { item.endDate || 'actualidad' }
+              { item.startDate } - { item.endDate || 'now' }
             </p>
           </div>
         </div>

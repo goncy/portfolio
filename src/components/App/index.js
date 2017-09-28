@@ -3,7 +3,7 @@ import { compose, defaultProps } from 'recompose'
 
 import { githubProfile, githubRepositories, linkedinResume } from '../../data'
 
-import { sections } from '../common/themed'
+import { sections } from '../common/Themed'
 
 import Header from '../Header'
 import ReposList from '../ReposList'
