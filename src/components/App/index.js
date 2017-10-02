@@ -12,6 +12,7 @@ import Experience from '../Experience'
 import Skills from '../Skills'
 import Education from '../Education'
 import ColorWizard from '../ColorWizard'
+import Download from '../Download'
 import Extra from '../Extra'
 
 const { PrimaryBackgroundSection, SecondaryBackgroundSection } = sections
@@ -71,10 +72,15 @@ class App extends Component {
           <ColorWizard changeTheme={changeTheme} />
         </SecondaryBackgroundSection>
 
-        { /* Extra */ }
+        { /* Download */ }
         <PrimaryBackgroundSection>
-          <Extra />
+          <Download />
         </PrimaryBackgroundSection>
+
+        { /* Extra */ }
+        <SecondaryBackgroundSection>
+          <Extra />
+        </SecondaryBackgroundSection>
       </div>
     )
   }

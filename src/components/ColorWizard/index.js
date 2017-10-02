@@ -10,7 +10,7 @@ export const ColorWizard = ({ handleChangeThemeClick, handleLikedClick, pristine
         {/* Pristine title */}
         {pristine && (
           <h1 className='f3 mt0 mb3'>
-            ¿Do you like this web colors?
+            Do you like this web colors?
           </h1>
         )}
 

@@ -17,3 +17,6 @@ export const SOCIAL_LINKS = [{
   url: 'mailto:gonzalo.pozzo4@gmail.com',
   icon: 'envelope-square'
 }]
+
+export const CV_LINK = `${process.env.PUBLIC_URL}/gonzalo-pozzo-cv.pdf`
+export const PERHAPS_IMG = `${process.env.PUBLIC_URL}/perhaps.jpg`
