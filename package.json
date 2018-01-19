@@ -2,7 +2,7 @@
   "name": "tachyons",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goncy.github.io/portfolio",
+  "homepage": "http://www.gonzalopozzo.com",
   "dependencies": {
     "font-awesome": "^4.7.0",
     "gh-pages": "^0.12.0",
